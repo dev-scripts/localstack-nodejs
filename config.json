@@ -1,0 +1,5 @@
+{ 
+    "accessKeyId":"localstack", 
+    "secretAccessKey":"localstack",
+    "region": "us-west-2"
+}

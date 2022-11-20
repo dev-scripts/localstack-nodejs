@@ -1,0 +1,16 @@
+{
+  "name": "aws_node_app",
+  "version": "1.0.0",
+  "description": "AWS App",
+  "author": "Prakash Bhandari <thebhandariprakash@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1258.0",
+    "crypto": "^1.0.1",
+    "express": "^4.16.1",
+    "fs": "0.0.1-security"
+  }
+}
